@@ -1,3 +1,3 @@
 # Human Agent Interactive Prompt
 
-[Organization Profile](https://github.com/HumanAgentInteractivePrompt)
+[Organization Profile](https://github.com/haiprompt)
